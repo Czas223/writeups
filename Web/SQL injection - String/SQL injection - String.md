@@ -24,3 +24,18 @@ it turned out to be only two.
 
 Now we are gonna extract the database structure but we are not sure which one to use either `sqlite_schema` or `sqlite_master` one way to find out is to look for the version.
 
+![7](7.png)
+
+this picture is gonna help us
+
+![8](8.png)
+
+It turned out that the version was lower than 3.33.0
+
+![9](9.png)
+
+finally we found out the table name and it's content.
+
+![10](10.png)
+
+
