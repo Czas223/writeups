@@ -5,7 +5,7 @@ here we have a login page, so i tried one of the most if not the most famous pay
 `' OR '1'='1-- -`
 ![2](2.png)
 
-but unfortunately it didn't work, so i said it might check the user then do the condition
+but unfortunately it didn't work because the user was blank, so i said it might check the user then do the condition
 in this case i used admin
 ![3](3.png)
 
