@@ -18,4 +18,5 @@ after decoding it in cyberchef we got another file called "config.php"
 
 ![5](5.png)
 Finally we got the user and the password.
+
 ![6](6.png)
