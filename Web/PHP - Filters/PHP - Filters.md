@@ -8,7 +8,7 @@ i thought of changing the file into /etc/passwd to see what's gonna happen
 
 i got a php error, since the name of the challenge is giving it away, "PHP Filters".
 this resource will help us 
-![url](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/File%20Inclusion/Wrappers.md)
+[url](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/File%20Inclusion/Wrappers.md)
 
 this payload worked for us:
 ``php://filter/convert.base64-encode/resource=ch12.php``
